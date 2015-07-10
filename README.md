@@ -1,0 +1,2 @@
+# AndroidCrashReport
+collection crash
